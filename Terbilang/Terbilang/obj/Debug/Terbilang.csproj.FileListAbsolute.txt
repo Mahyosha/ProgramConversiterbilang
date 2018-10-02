@@ -1,0 +1,12 @@
+E:\docu\0954\Pemrograman lanjut\Terbilang\Terbilang\bin\Debug\Terbilang.exe.config
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\bin\Debug\Terbilang.exe.config
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\obj\Debug\Terbilang.exe
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\obj\Debug\Terbilang.pdb
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\obj\Debug\Terbilang.csprojResolveAssemblyReference.cache
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\obj\Debug\Terbilang.Form1.resources
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\obj\Debug\Terbilang.Properties.Resources.resources
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\obj\Debug\Terbilang.csproj.GenerateResource.Cache
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\bin\Debug\Terbilang.exe
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\bin\Debug\Terbilang.pdb
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\bin\Debug\ClassLibrary2.dll
+D:\visual studio\Other\17.11.0954\Terbilang\Terbilang\bin\Debug\ClassLibrary2.pdb

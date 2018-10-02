@@ -1,0 +1,10 @@
+F:\Terbilang\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+F:\Terbilang\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+F:\Terbilang\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+F:\Terbilang\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+F:\Terbilang\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+D:\visual studio\Other\17.11.0954\Terbilang\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\visual studio\Other\17.11.0954\Terbilang\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\visual studio\Other\17.11.0954\Terbilang\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+D:\visual studio\Other\17.11.0954\Terbilang\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\visual studio\Other\17.11.0954\Terbilang\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
